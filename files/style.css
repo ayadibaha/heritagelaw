@@ -153,8 +153,10 @@ form{
 .earth{
 	background-image: url(earth.jpg);
 	background-repeat:no-repeat; 
-	width:100%;
+	width:200%;
 	height:571px;
+	margin-left:-50%;
+	margin-top:-1%;
 }
 .peo{
 	margin-top:25%;
@@ -244,8 +246,9 @@ form{
 	background-image: url(signup.png);
 	background-size: cover;
 	background-repeat: no-repeat;
-	min-width:50%;
+	width:200%;
 	height:100%;
+	margin-left:-50%;
 }
 .signup h5{
 	font-size: 32px;
@@ -272,7 +275,7 @@ form{
   	font-style: italic;
   	text-align: center;
   	top:20px;
-  	margin-left:50%;
+  	margin-left:43%;
 }
 .sign p{
 	font-size: 1.25em;
@@ -284,23 +287,153 @@ form{
   	margin:10px;
 }
 .testipic{
-	width:300px;
-	height:auto;
+	width: 313px;
+  	height: 176px;
 }
 .logo{
-	width:218px;
-	height:auto;
+	width: 214px;
+  	height: 58px;
+  	margin-top:5%;
+  	margin-bottom:5%;
+}
+.lname{
+	  font-size: 16px;
+	  font-family: "Ubuntu";
+	  color: rgb( 68, 68, 68 );
+	  line-height: 1.25;
+	  text-align: left;
+	  margin-top:10px;
+}
+.lname strong{
+	  font-size: 18px;
+	  font-family: "Ubuntu";
+	  color: rgb( 68, 68, 68 );
+	  font-weight: bold;
+	  line-height: 0.952;
+	  text-align: left;
+	  margin-top:10px;
+}
+.testdes{
+	  font-size: 16px;
+	  font-family: "Ubuntu";
+	  color: rgb( 68, 68, 68 );
+	  line-height: 1.25;
+	  text-align: left;
+	  margin-bottom:10%;
+	  width:214px;
 }
 .goodmarketing{
 	background-color:#f0f0f0;
 	padding:3%;
-	width:100%;
+	margin-left:-45%;
+	width:200%;
+}
+.goodmarketing button{
+	  border-style: solid;
+	  border-width: 1px;
+	  border-color: rgb( 145, 184, 71 );
+	  border-radius: 6px;
+	  background-color: rgb( 145, 184, 71 );
+	  background-image:none;
+	  width: 438px;
+	  height: 99px;
+	  font-size: 19.2px;
+  	  font-family: "Ubuntu";
+  	  font-weight:lighter;
+  	  color: rgb( 255, 255, 255 );
+  	  text-transform: uppercase;
+}
+.goodmarketing button:hover{
+	  border-style: solid;
+	  border-width: 1px;
+	  border-color: rgb( 145, 184, 71 );
+	  border-radius: 6px;
+	  background-color: rgb( 145, 184, 71 );
+	  background-image:none;
+	  width: 438px;
+	  height: 99px;
+	  font-size: 19.2px;
+  	  font-family: "Ubuntu";
+  	  font-weight:lighter;
+  	  color: rgb( 255, 255, 255 );
+  	  text-transform: uppercase;
+}
+.goodmarketing p{
+	  font-size: 22px;
+	  font-family: "Ubuntu";
+	  font-weight:lighter;
+	  color: rgb( 55, 55, 55 );
+	  text-transform: uppercase;
+	  line-height: 0.909;
+	  margin-top:40px;
 }
 .quicklinks{
 	background-color:#282e3b;
+	color:#fff;
+	margin-left:-50%;
+	width:200%;
+}
+.round{
+	padding:15px;
+	margin-right:10px;
+	background-color:rgba(52,59,75,0.75);
+	border-radius:50px;
+}
+.icons{
+	margin-left:5%;
+	margin-top:10%;
+}
+.icons i{
+	color:#8492b2;
+	font-size:large;
+}
+.quicklinks h5{
+  font-size: 15px;
+  font-family: "Vollkorn";
+  font-weight:lighter;
+  color: rgb( 255, 255, 255 );
+  line-height: 1;
+  text-align: left;
+}
+.quicklinks p{
+  font-size: 12px;
+  font-family: "Ubuntu";
+  color: rgb( 144, 153, 176 );
+  line-height: 1.643;
+  text-align: left;
+  margin-left:15%;	
+}
+.quicklinks ul{
+  font-size: 12px;
+  font-family: "Ubuntu";
+  color: rgb( 144, 153, 176 );
+  line-height: 1.643;
+  text-align: left;
+  list-style:none;
+}
+.sig{
+	margin-top:10%;
+	margin-left:-10%;
 }
 .foot{
 	background-color:#171b24;
+	margin-left:-50%;
+	width:200%;
+}
+.foot p{
+  font-size: 14px;
+  font-family: "Ubuntu";
+  color: rgb( 205, 209, 221 );
+  line-height: 2;
+  text-align: left;
+  position: absolute;
+  margin-top:1.5%;
+}
+.foot img{
+	display:inline;
+	width: 134px;
+    height: 100%;
+    margin-right:10%;
 }
 .form-control-feedback{
 	left:20px;
@@ -325,11 +458,21 @@ form{
     font-size: 18px;
     font-family: "Ubuntu";
     color: rgb( 255, 255, 255 );
-    left:30%;
+    left:40%;
 }
 /*#form .table{
 	margin:20px;
 }*/
 #selecting select{
 	max-width:50%;
+}
+.testimonialheader{
+	font-size: 28px;
+    font-family: "Ubuntu";
+  	color: rgb( 55, 55, 55 );
+  	font-weight: bold;
+  	line-height: 0.714;
+  	text-align:center;
+  	padding:20px;
+  	text-transform: uppercase;
 }
