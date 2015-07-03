@@ -661,3 +661,236 @@ form{
   	font-weight:lighter;
   	margin-bottom:2%;
 }
+/* Directories Page */
+.directoriesheader{
+	background-image:url(bgdirectories.jpg);
+	background-repeat:repeat-x;
+	width:200%;
+	margin-left:-50%;
+}
+.directoriesheader h3{
+	font-size: 48px;
+  	font-family: "Lato";
+  	color: rgb( 255, 255, 255 );
+  	font-weight: bold;
+  	text-transform: uppercase;
+  	line-height: 0.417;
+  	text-shadow: 1px 1.732px 3px rgb( 0, 0, 0 );
+  	text-align: center;
+  	padding:10%;
+  	padding-bottom:0%;
+ }
+.directoriesheader h5{
+	font-size: 15.352px;
+  	font-family: "Lato";
+  	color: rgb( 255, 255, 255 );
+  	font-style: italic;
+  	line-height: 1.303;
+  	text-shadow: 1px 1.732px 3px rgb( 0, 0, 0 );
+  	-moz-transform: matrix( 1.69357865566696,0,0,1.69357865566696,0,0);
+  	-webkit-transform: matrix( 1.69357865566696,0,0,1.69357865566696,0,0);
+  	-ms-transform: matrix( 1.69357865566696,0,0,1.69357865566696,0,0);
+  	text-align: center;
+  	padding:10%;
+  	padding-top:5%;
+  	margin-bottom:5px;
+}
+.dirbox{
+	font-size: 20.3px;
+  	font-family: "Ubuntu";
+  	color: rgba( 51, 51, 51, 0.929 );
+  	line-height: 1.576;
+  	text-align: left;
+  	border-width: 1px;
+  	border-color: rgb( 127, 140, 141 );
+  	border-style: solid;
+ 	border-radius: 6px;
+ 	padding:1%;
+ 	margin:5%;
+}
+.dir{
+	margin-bottom:10%;
+}
+.dir th{
+	padding:20%;
+  	background-image: -moz-linear-gradient( 90deg, rgb(44,44,99) 0%, rgb(61,61,158) 100%);
+  	background-image: -webkit-linear-gradient( 90deg, rgb(44,44,99) 0%, rgb(61,61,158) 100%);
+  	background-image: -ms-linear-gradient( 90deg, rgb(44,44,99) 0%, rgb(61,61,158) 100%);
+  	font-size: 12px;
+  	font-family: "Lato";
+  	color: rgb( 255, 255, 255 );
+  	font-weight: bold;
+  	text-transform: uppercase;
+}
+.dir tr{
+	font-size: 16px;
+  	font-family: "Lato";
+  	color: rgb( 3, 3, 3 );
+  	line-height: 1.438;
+}
+.dirbtn{
+	border-style: solid;
+  	border-width: 1px;
+  	border-color: rgb( 189, 79, 129 );
+  	border-radius: 4px;
+  	background-image: -moz-linear-gradient( 90deg, rgb(184,67,117) 0%, rgb(234,106,154) 100%);
+  	background-image: -webkit-linear-gradient( 90deg, rgb(184,67,117) 0%, rgb(234,106,154) 100%);
+  	background-image: -ms-linear-gradient( 90deg, rgb(184,67,117) 0%, rgb(234,106,154) 100%);
+  	box-shadow: 1px 1.732px 3px 0px rgb( 0, 0, 0 );
+  	width: 112px;
+  	font-size: 16px;
+  	font-family: "Lato";
+  	color: rgb( 255, 255, 255 );
+  	line-height: 1.438;
+  	text-shadow: 0.5px 0.866px 2px rgb( 0, 0, 0 );
+  	-moz-transform: matrix( 0.87022900763359,0,0,0.86111111111111,0,0);
+  	-webkit-transform: matrix( 0.87022900763359,0,0,0.86111111111111,0,0);
+  	-ms-transform: matrix( 0.87022900763359,0,0,0.86111111111111,0,0);height: 29px;
+  	text-transform: uppercase;
+}
+.rowcolored{
+	background-color:#d7d7e3;
+}
+.underlined{
+	text-decoration:underline;
+	white-space:nowrap;
+	margin:auto;
+	text-align:center;
+	vertical-align: middle !important;
+}
+.middled{
+	vertical-align: middle !important;
+}
+.arrows{
+	padding:5px;
+	display:inline-block;
+	vertical-align: middle;
+}
+/* Leads Page */
+.leadhead{
+	font-size: 34px;
+  	font-family: "Lato";
+  	color: rgba( 45, 45, 45, 0.902 );
+  	font-weight: bold;
+  	text-transform: uppercase;
+  	line-height: 0.588;
+  	font-weight:bold;
+  	text-align: center;
+  	margin-top:5%;
+  	margin-bottom:5%;
+}
+.firstbtn{
+	border-radius: 2px;
+  	background-color: rgb( 44, 44, 99 );
+	width: 350px;
+  	height: 57px;
+  	font-size: 20px;
+  	font-family: "Lato";
+  	color: rgb( 255, 255, 255 );
+  	font-weight: bold;
+  	line-height: 3.364;
+  	margin-bottom:15px;
+  	text-align: left;
+}
+.secondbtn{
+	border-radius: 2px;
+  	background-color:#9ab240;
+	width: 350px;
+  	height: 57px;
+  	font-size: 20px;
+  	font-family: "Lato";
+  	color: rgb( 255, 255, 255 );
+  	font-weight: bold;
+  	line-height: 3.364;
+  	margin-bottom:15px;
+  	text-align: left;
+}
+.thirdbtn{
+	border-radius: 2px;
+  	background-color:#ac4a77;
+	width: 350px;
+  	height: 57px;
+  	font-size: 20px;
+  	font-family: "Lato";
+  	color: rgb( 255, 255, 255 );
+  	font-weight: bold;
+  	line-height: 3.364;
+  	margin-bottom:15px;
+  	text-align: left;
+}
+.leadbtns{
+	margin-bottom:10%;
+}
+.lastleads{
+	border-style: solid;
+  	border-width: 2px;
+  	border-color:#bbbbbb;
+  	border-radius: 2px;
+  	background-color:#dadde8;
+  	margin-bottom:10%;
+}
+.lastleadsbtn{
+	border-radius: 8px;
+  	background-image: -moz-linear-gradient( 90deg, rgb(44,44,99) 0%, rgb(69,69,142) 100%);
+  	background-image: -webkit-linear-gradient( 90deg, rgb(44,44,99) 0%, rgb(69,69,142) 100%);
+  	background-image: -ms-linear-gradient( 90deg, rgb(44,44,99) 0%, rgb(69,69,142) 100%);
+  	width: 1093px;
+  	height: 139px;
+  	margin-top:5% !important;
+  	margin:auto;
+}
+.lastleadsbtn h4{
+	font-size: 31.774px;
+  	font-family: "Ubuntu";
+  	color: rgb( 255, 255, 255 );
+  	font-weight: bold;
+  	line-height: 0.629;
+  	-moz-transform: matrix( 0.75533538267192,0,0,0.75533538267192,0,0);
+  	-webkit-transform: matrix( 0.75533538267192,0,0,0.75533538267192,0,0);
+  	-ms-transform: matrix( 0.75533538267192,0,0,0.75533538267192,0,0);
+  	text-align:left;
+  	padding:15px;
+  	margin-left:-12%;
+}
+.lastleadsbtn p{
+  font-size: 15px;
+  font-family: "Ubuntu";
+  color: rgba( 255, 255, 255, 0.8 );
+  line-height: 1.333;
+  text-align: left;
+  margin-left:3%;
+}
+.lastleadsbtn small{
+  font-family: "Ubuntu";
+  color: rgba( 255, 255, 255, 0.8 );
+  line-height: 1.333;
+  text-align: left;
+  margin-top:-3%;
+  margin-right:1%;
+}
+.centerbtns{
+	text-align:center;
+}
+.leadsign{
+	border-style: solid;
+  	border-width: 1px;
+  	border-color: rgb( 107, 186, 224 );
+  	border-radius: 6px;
+  	background-image: -moz-linear-gradient( 90deg, rgb(91,174,214) 0%, rgb(107,196,238) 100%);
+  	background-image: -webkit-linear-gradient( 90deg, rgb(91,174,214) 0%, rgb(107,196,238) 100%);
+  	background-image: -ms-linear-gradient( 90deg, rgb(91,174,214) 0%, rgb(107,196,238) 100%);
+  	width: 299px;
+  	height: 57px;
+  	margin:5%;
+  	font-size: 18px;
+  	font-family: "Ubuntu";
+  	color: rgb( 255, 255, 255 );
+  	line-height: 1.111;
+  	text-transform: uppercase;
+  	font-weight:lighter;
+}
+hr{
+	position:relative;
+	border-color:#bbbbbb;
+	margin-top:13%;
+}
