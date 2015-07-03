@@ -476,3 +476,188 @@ form{
   	padding:20px;
   	text-transform: uppercase;
 }
+/*About Page*/
+.aboutheader{
+	background-image:url(bgabout.jpg);
+	background-repeat:no-repeat;
+	width:200%;
+	margin-left:-50%;
+}
+.aboutheader h3{
+	font-size: 28px;
+  	font-family: "Lato";
+  	color: rgba( 255, 255, 255, 0.902 );
+  	font-weight: bold;
+  	text-transform: uppercase;
+  	text-align:center;
+  	padding:5%;
+  	margin-top:20%;
+}
+.aboutheader p{
+  font-size: 24px;
+  font-family: "Ubuntu";
+  color: rgba( 255, 255, 255, 0.929 );
+  line-height: 1.458;
+  text-align: left;
+  width: 1084px;
+  height: 127px;
+}
+.center{
+	margin:auto;
+	padding-top:25px;
+	padding-bottom:25%;
+}
+.centerr{
+	margin:auto;
+	padding-top:25px;
+	padding-bottom:5%;
+}
+.textblock h3{
+	font-size: 30px;
+  	font-family: "Ubuntu";
+  	color: rgb( 43, 43, 43 );
+  	font-weight: bold;
+  	line-height: 1;
+  	text-align: center;
+}
+.textblock p{
+	font-size: 20px;
+  	font-family: "Ubuntu";
+  	color: rgb( 87, 87, 87 );
+  	line-height: 1.667;
+  	text-align: left;
+}
+.textblock h4{
+  font-size: 44px;
+  font-family: "Ubuntu";
+  color: rgb( 0, 0, 0 );
+  line-height: 0.909;
+  font-weight:lighter;
+}
+.timeline{
+	border-radius:1120px;
+	padding:30%;
+}
+.marketing{
+	background-color:#ac4a77;
+	width:200%;
+	margin-left:-50%;
+}
+.marketing h2{
+	  font-size: 25px;
+	  font-family: "Ubuntu";
+	  color: rgb( 255, 255, 255 );
+	  font-weight: bold;
+	  line-height: 1.053;
+}
+.marketing p{
+  font-size: 15px;
+  font-family: "Ubuntu";
+  color: rgb( 255, 255, 255 );
+  line-height: 1.667;
+  text-align: left;
+}
+.marketing img{
+	margin-top:-10%;
+}
+.profile{
+	background-color:#f4f4f4;
+	border-color:#b7b7b8;
+	border-style: solid;
+    border-width: 1px;
+    margin-bottom:30%;
+}
+.profile h3{
+	font-size: 24px;
+  	font-family: "Ubuntu";
+  	color: rgb( 83, 84, 83 );
+  	font-weight: bold;
+  	line-height: 1.375;
+  	text-align: left;
+  	margin-left:5%;
+  	margin-bottom:0%;
+}
+.profile h5{
+	font-size: 17px;
+  	font-family: "Ubuntu";
+  	color: rgb( 83, 84, 83 );
+  	font-style: italic;
+  	line-height: 1.706;
+  	font-weight:lighter;
+  	margin-left:5%;
+}
+.profile p{
+	font-size: 18.789px;
+  	font-family: "Ubuntu";
+  	color: rgb( 83, 84, 83 );
+  	line-height: 1.543;
+  	padding:2%;
+  	margin-left:5%;
+}
+.aboutpar{
+	font-size: 22px;
+ 	font-family: "Ubuntu";
+  	color: rgb( 87, 87, 87 );
+  	line-height: 1.636;
+  	width: 400px;
+  	height: 165px;
+  	font-weight:lighter;
+}
+/* Contact */
+.contactbox{
+  background-color: rgb( 240, 240, 240 );
+  margin:5%;
+}
+.submitform{
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  background-color: rgb( 107, 186, 224 );
+  width: 299px;
+  height: 57px;
+  font-size: 18px;
+  font-family: "Ubuntu";
+  color: rgb( 255, 255, 255 );
+  line-height: 1.111;
+  font-weight:lighter;
+}
+.infos h5{
+	font-size: 20px;
+  	font-family: "Ubuntu";
+  	color: rgb( 51, 51, 51 );
+  	line-height: 1.35;
+  	text-align: left;
+}
+.infos h6{
+	font-size:15px;
+	font-family: "Ubuntu";
+  	color: rgb( 51, 51, 51 );
+  	line-height: 1.35;
+  	text-align: left;
+  	font-weight:lighter;
+}
+#special{
+	text-transform: uppercase;
+	color:#ac4a77;
+}
+.contacthead{
+	text-align: center;
+}
+.contacthead h2{
+	font-size: 46px;
+  	font-family: "Ubuntu";
+  	color: rgb( 51, 51, 51 );
+  	line-height: 0.652;
+  	text-align: center;
+  	font-weight:lighter;
+  	text-transform: uppercase;
+  	margin-bottom:2%;
+}
+.contacthead h4{
+	font-size: 20.3px;
+  	font-family: "Ubuntu";
+  	color: rgb( 51, 51, 51 );
+  	line-height: 1.478;
+  	font-weight:lighter;
+  	margin-bottom:2%;
+}
