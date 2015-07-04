@@ -830,11 +830,6 @@ form{
 	color:rgba(0,0,0,0.6);
 	margin:5px;
 }
-.handcuffs{
-	background:url(handcuffs.svg) no-repeat;
-	background-size:contain;
-	padding:15px;
-}
 .lastleads{
 	border-style: solid;
   	border-width: 2px;
@@ -908,6 +903,41 @@ hr{
 	border-color:#bbbbbb;
 	margin-top:13%;
 }
+	.handcuffs{
+	background:url(handcuffs.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.lamp{
+	background:url(lamp.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.old{
+	background:url(grandfather.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.mizen{
+	background:url(mizen.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.mt{
+	background:url(mt.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.wine{
+	background:url(wine.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.legal{
+		background:url(legal10.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
 }
 @media (max-width: 1200px){
 body{
@@ -1853,6 +1883,41 @@ hr{
         overflow: hidden!important;
     }
     .navbar-collapse.collapse.in { display: block!important; }
+    	.handcuffs{
+	background:url(handcuffs.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.lamp{
+	background:url(lamp.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.old{
+	background:url(grandfather.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.mizen{
+	background:url(mizen.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.mt{
+	background:url(mt.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.wine{
+	background:url(wine.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.legal{
+		background:url(legal10.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
 }
 @media (max-width: 992px){
 body{
@@ -2764,6 +2829,41 @@ hr{
 	border-color:#bbbbbb;
 	margin-top:13%;
 }
+	.handcuffs{
+	background:url(handcuffs.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.lamp{
+	background:url(lamp.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.old{
+	background:url(grandfather.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.mizen{
+	background:url(mizen.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.mt{
+	background:url(mt.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.wine{
+	background:url(wine.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.legal{
+		background:url(legal10.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
 }
 @media (max-width: 768px){
 body{
@@ -3730,6 +3830,41 @@ hr{
 .add{
 	margin-right:65px;
 }
+	.handcuffs{
+	background:url(handcuffs.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.lamp{
+	background:url(lamp.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.old{
+	background:url(grandfather.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.mizen{
+	background:url(mizen.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.mt{
+	background:url(mt.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.wine{
+	background:url(wine.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.legal{
+		background:url(legal10.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
 }
 @media (max-width:676px){
 	.add{
@@ -3740,5 +3875,40 @@ hr{
 	}
 	.foot img{
 		display:none;
+	}
+	.handcuffs{
+	background:url(handcuffs.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.lamp{
+	background:url(lamp.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.old{
+	background:url(grandfather.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.mizen{
+	background:url(mizen.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.mt{
+	background:url(mt.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.wine{
+	background:url(wine.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	}
+	.legal{
+		background:url(legal10.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
 	}
 }
