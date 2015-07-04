@@ -33,11 +33,11 @@
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
         <li role="separator" class="divider"></li>
-        <li><a href="directories.html">Directories</a></li>
+        <li><a href="directories.php">Directories</a></li>
         <li role="separator" class="divider"></li>
-        <li><a href="leads.html">Leads</a></li>
+        <li><a href="leads.php">Leads</a></li>
         <li role="separator" class="divider"></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="contact.php">Contact</a></li>
         <li class="phone"><span class="glyphicon glyphicon-earphone"></span><h4>(540) 383-5557</h4></li>
         <li><button class="btn signin"><img class="img-responsive" src="files/key.png"></img>SIGN IN</button></li>
       </ul>
@@ -211,11 +211,11 @@
 						<h5><span class="glyphicon glyphicon-link round"></span>Quick Links</h5>
 								<ul>
 									<li><a href="#"><span class="glyphicon glyphicon-chevron-right"></span> Home</a></li>
-									<li><a href="about.html"><span class="glyphicon glyphicon-chevron-right"></span> About</a></li>
+									<li><a href="about.php"><span class="glyphicon glyphicon-chevron-right"></span> About</a></li>
 									<li><a href=""><span class="glyphicon glyphicon-chevron-right"></span> Portfolio</a></li>
 									<li><a href=""><span class="glyphicon glyphicon-chevron-right"></span> Services</a></li>
 									<li><a href=""><span class="glyphicon glyphicon-chevron-right"></span> Sign Up</a></li>
-									<li><a href="contact.html"><span class="glyphicon glyphicon-chevron-right"></span> Contact</a></li>
+									<li><a href="contact.php"><span class="glyphicon glyphicon-chevron-right"></span> Contact</a></li>
 								</ul>
 					</div>
 				</div>

@@ -31,13 +31,13 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav">
-        <li><a href="index.html">Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
         <li role="separator" class="divider"></li>
-        <li><a href="directories.html">Directories</a></li>
+        <li><a href="directories.php">Directories</a></li>
         <li role="separator" class="divider"></li>
         <li class="active"><a href="#">Leads</a></li>
         <li role="separator" class="divider"></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="contact.php">Contact</a></li>
         <li class="phone"><span class="glyphicon glyphicon-earphone"></span><h4>(540) 383-5557</h4></li>
         <li><button class="btn signin"><img class="img-responsive" src="files/key.png"></img>SIGN IN</button></li>
       </ul>
@@ -52,10 +52,10 @@
   <div class="container">
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
       <div class="row"><button class="firstbtn"><i class="glyphicon glyphicon-grain"></i>Agricultural Law $15</button></div>
-      <div class="row"><button class="firstbtn"><span class=""></span><i class="fa fa-money"></i>Bankrupty & Debt $15</button></div>
-      <div class="row"><button class="firstbtn"><span class=""></span>Criminal Law $15</button></div>
+      <div class="row"><button class="firstbtn"><i class="fa fa-money"></i>Bankrupty & Debt $15</button></div>
+      <div class="row"><button class="firstbtn"><span class="handcuffs"></span>Criminal Law $15</button></div>
       <div class="row"><button class="firstbtn"><i class="fa fa-users"></i>Family Law $15</button></div>
-      <div class="row"><button class="firstbtn"><span class=""></span>Intellectual Prty $15</button></div>
+      <div class="row"><button class="firstbtn"><span class="lamp"></span>Intellectual Prty $15</button></div>
       <div class="row"><button class="firstbtn"><i class="fa fa-plane"></i>Aviation $15</button></div>
       <div class="row"><button class="firstbtn"><i class="fa fa-plane"></i>Aviation $15</button></div>
       <div class="row"><button class="firstbtn"><i class="fa fa-plane"></i>Aviation $15</button></div>
@@ -257,11 +257,11 @@
             <h5><span class="glyphicon glyphicon-link round"></span>Quick Links</h5>
                 <ul>
                   <li><a href="#"><span class="glyphicon glyphicon-chevron-right"></span> Home</a></li>
-                  <li><a href="about.html"><span class="glyphicon glyphicon-chevron-right"></span> About</a></li>
+                  <li><a href="about.php"><span class="glyphicon glyphicon-chevron-right"></span> About</a></li>
                   <li><a href=""><span class="glyphicon glyphicon-chevron-right"></span> Portfolio</a></li>
                   <li><a href=""><span class="glyphicon glyphicon-chevron-right"></span> Services</a></li>
                   <li><a href=""><span class="glyphicon glyphicon-chevron-right"></span> Sign Up</a></li>
-                  <li><a href="contact.html"><span class="glyphicon glyphicon-chevron-right"></span> Contact</a></li>
+                  <li><a href="contact.php"><span class="glyphicon glyphicon-chevron-right"></span> Contact</a></li>
                 </ul>
           </div>
         </div>
