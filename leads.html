@@ -74,7 +74,7 @@
       <div class="row"><button class="thirdbtn"><i class="fa fa-plane"></i>Aviation $15</button></div>
       <div class="row"><button class="thirdbtn"><span class=""></span><i class="fa fa-flag"></i>Civil Rights</button></div>
       <div class="row"><button class="thirdbtn"><span class="old"></span>Elder Law $20</button></div>
-      <div class="row"><button class="thirdbtn"><span class=""></span>Insurance $20</button></div>
+      <div class="row"><button class="thirdbtn"><span class="shield"></span>Insurance $20</button></div>
       <div class="row"><button class="thirdbtn"><i class="legal"></i>Litigation $20</button></div>
       <div class="row"><button class="thirdbtn"><i class="fa fa-flag"></i>Immigration $20</button></div>
       <div class="row"><button class="thirdbtn"></span><i class="fa fa-flag"></i>Immigration $20</button></div>

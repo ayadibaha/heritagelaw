@@ -826,8 +826,8 @@ form{
 .leadbtns{
 	margin-bottom:10%;
 }
-.leadbtns i{
-	color:rgba(0,0,0,0.6);
+.leadbtns i,span{
+	color:rgba(0,0,0,1);
 	margin:5px;
 }
 .lastleads{
@@ -907,36 +907,49 @@ hr{
 	background:url(handcuffs.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.lamp{
 	background:url(lamp.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.old{
 	background:url(grandfather.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.mizen{
 	background:url(mizen.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.mt{
 	background:url(mt.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.wine{
 	background:url(wine.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.legal{
 		background:url(legal10.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
+	}
+	.shield{
+		background:url(shield.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 }
 @media (max-width: 1200px){
@@ -1773,6 +1786,10 @@ form{
 .leadbtns{
 	margin-bottom:10%;
 }
+.leadbtns i,span{
+	color:rgba(0,0,0,1);
+	margin:5px;
+}
 .lastleads{
 	border-style: solid;
   	border-width: 2px;
@@ -1888,35 +1905,53 @@ hr{
 	background-size:contain;
 	padding:15px;
 	}
+	.handcuffs{
+	background:url(handcuffs.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	color:rgba(0,0,0,0.8);
+	}
 	.lamp{
 	background:url(lamp.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.old{
 	background:url(grandfather.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.mizen{
 	background:url(mizen.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.mt{
 	background:url(mt.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.wine{
 	background:url(wine.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.legal{
 		background:url(legal10.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
+	}
+	.shield{
+		background:url(shield.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 }
 @media (max-width: 992px){
@@ -2756,6 +2791,10 @@ form{
 .leadbtns{
 	margin-bottom:10%;
 }
+.leadbtns i,span{
+	color:rgba(0,0,0,1);
+	margin:5px;
+}
 .lastleads{
 	border-style: solid;
   	border-width: 2px;
@@ -2833,36 +2872,49 @@ hr{
 	background:url(handcuffs.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.lamp{
 	background:url(lamp.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.old{
 	background:url(grandfather.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.mizen{
 	background:url(mizen.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.mt{
 	background:url(mt.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.wine{
 	background:url(wine.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.legal{
 		background:url(legal10.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
+	}
+	.shield{
+		background:url(shield.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 }
 @media (max-width: 768px){
@@ -3748,6 +3800,10 @@ margin-left: 0px;
 .leadbtns{
 	margin-bottom:10%;
 }
+.leadbtns i,span{
+	color:rgba(0,0,0,1);
+	margin:5px;
+}
 .lastleads{
 	border-style: solid;
   	border-width: 2px;
@@ -3834,36 +3890,49 @@ hr{
 	background:url(handcuffs.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.lamp{
 	background:url(lamp.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.old{
 	background:url(grandfather.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.mizen{
 	background:url(mizen.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.mt{
 	background:url(mt.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.wine{
 	background:url(wine.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.legal{
 		background:url(legal10.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
+	}
+	.shield{
+		background:url(shield.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 }
 @media (max-width:676px){
@@ -3880,35 +3949,48 @@ hr{
 	background:url(handcuffs.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.lamp{
 	background:url(lamp.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.old{
 	background:url(grandfather.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.mizen{
 	background:url(mizen.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.mt{
 	background:url(mt.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.wine{
 	background:url(wine.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 	.legal{
 		background:url(legal10.svg) no-repeat;
 	background-size:contain;
 	padding:15px;
+	color:rgba(0,0,0,0.8);
+	}
+	.shield{
+		background:url(shield.svg) no-repeat;
+	background-size:contain;
+	padding:15px;
+	color:rgba(0,0,0,0.8);
 	}
 }
